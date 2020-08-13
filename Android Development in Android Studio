@@ -1,0 +1,31 @@
+
+
+
+Question 1
+What option would you select in Android Studio to open a project that was not created in Android Studio?
+>> Import project (Gradle, Eclipse ADT, etc)
+
+Question 2
+When creating a project in Android Studio what programming languages can you choose?
+>> Java
+>> Kotlin
+
+Question 3
+Where in Android Studio would you go to set up a virtual device?
+>> AVD Manager
+
+Question 4
+What would you use to start a line of code in xml to make a specific widget identifiable to your app?
+>> android:id
+
+Question 5
+If you wanted to make a button not visible to a user using .setVisibility what piece of code would you use?
+>> View:GONE
+
+Question 6
+You should only use one onClick method that is not nested (inside another method)?
+>> True
+
+Question 7
+To create a file that you would upload to Appetize.io without running an Android Studio emulator what would select?
+>> Build APK
